@@ -1,5 +1,6 @@
 # Shamartrez
-<img src="Code-Blue.gif" alt="Blue Code Screen">
+<img src="(https://github.com/TrezSession/Shamartrez/assets/113914428/b63d765a-77a7-4c30-9e8b-f020d4961454)" alt="Blue Code">
+
 
 <h1 align="center">Hi 👋, I'm Shamartrez</h1>
 <h3 align="center">A learning web-developer from Missouri.</h3>
