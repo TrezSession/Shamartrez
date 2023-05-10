@@ -1,5 +1,5 @@
 # Shamartrez
-
+![](https://github.com/user/banner.png)
 <h1 align="center">Hi 👋, I'm Shamartrez</h1>
 <h3 align="center">A learning web-developer from Missouri.</h3>
 
