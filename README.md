@@ -1,5 +1,6 @@
 # Shamartrez
-![](https://github.com/user/banner.png)
+<img> href="https://www.google.com/url?sa%3Di%26url%3Dhttps%3A%2F%2Fwww.thinkdigitally.com.au%2Fbespoke-web-design-software-development%2Fcode-blue%2F%26psig%3DAOvVaw18YWbmSQpzJL64WHZTPcy2%26ust%3D1683814949518000%26source%3Dimages%26cd%3Dvfe%26ved%3D0CA0QjRxqFwoTCOj6jdj56v4CFQAAAAAdAAAAABAD" rel="stylesheet"
+
 <h1 align="center">Hi 👋, I'm Shamartrez</h1>
 <h3 align="center">A learning web-developer from Missouri.</h3>
 
