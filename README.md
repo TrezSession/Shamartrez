@@ -6,7 +6,7 @@
 
 <p> Hello! My name is Shamartrez Session; a 26 year old front-end web developer attending classes to learn and earn a certificate in the profession of coding. My goals are to attend a university for a degree in computer science; hopefully leading me into a job within medical coding.
   
-  Spending a lot of my time around instruments, I love creating music in the spare time I do have available. The interest in music that I have has tremendously helped with my understanding of compuuters and its applications and software.
+  Spending a lot of my time with instruments, I love creating music in the spare time I have available. My interest in music has tremendously assisted my understanding of computers and its many software abilities, including DAWs.
 
 - 🌱 I’m currently learning **Bootstrap**
 
