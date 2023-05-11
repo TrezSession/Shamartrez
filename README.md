@@ -4,7 +4,9 @@
 <h1 align="center">SHAMARTREZ</h1>
 <h3 align="center">A learning web-developer from Missouri.</h3>
 
-<p> My name is Shamartrez Session; a 26 year old front-end web developer attending classes to learn and earn a certificate in the profession of coding. My goals are to attend a university for a degree in computer science; hopefully leading me into a job within medical coding. 
+<p> My name is Shamartrez Session; a 26 year old front-end web developer attending classes to learn and earn a certificate in the profession of coding. My goals are to attend a university for a degree in computer science; hopefully leading me into a job within medical coding.
+  
+  Spending a lot of my time around instruments, I love creating music in the spare time I do have available. The interest in music that I have has tremendously helped with my understanding of compuuters and its applications and software.
 
 - 🌱 I’m currently learning **Bootstrap**
 
