@@ -1,6 +1,5 @@
 # Shamartrez
-<img src="https://github.com/TrezSession/Shamartrez/assets/113914428/e275e00f-9372-4099-8428-c893ade871e5
-" alt="Blue Code">
+<img src="https://github.com/TrezSession/Shamartrez/assets/113914428/50ef45bf-c935-484c-bfb4-576ec2148e5f" alt="Blue Code">
 
 
 <h1 align="center">Hi 👋, I'm Shamartrez</h1>
