@@ -1,5 +1,5 @@
 # Shamartrez
-<img src="![ezgif com-resize](https://github.com/TrezSession/Shamartrez/assets/113914428/e275e00f-9372-4099-8428-c893ade871e5)
+<img src="https://github.com/TrezSession/Shamartrez/assets/113914428/e275e00f-9372-4099-8428-c893ade871e5
 " alt="Blue Code">
 
 
