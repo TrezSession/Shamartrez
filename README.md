@@ -2,7 +2,7 @@
 <img src="https://github.com/TrezSession/Shamartrez/assets/113914428/50ef45bf-c935-484c-bfb4-576ec2148e5f" alt="Blue Code">
 
 
-<h1 align="center">Hi 👋, I'm Shamartrez</h1>
+<h1 align="center">SHAMARTREZ</h1>
 <h3 align="center">A learning web-developer from Missouri.</h3>
 
 <p> My name is Shamartrez Session; a front-end web developer, attending classes to learn and earn a certificate in the profession of coding. My goals are to attend a 
